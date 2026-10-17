@@ -91,7 +91,7 @@ def create_deck():
     p3.font.color.rgb = COLOR_ACCENT
 
     p4 = tf1.add_paragraph()
-    p4.text = "• Team Member Name(s):  [Your Name / Team Members]\n• Register Number(s):       [Your Register Number(s)]\n• Faculty / Supervisor:      [Faculty Name]"
+    p4.text = "• Team Member Name(s):  Mathangi Avinash (aavi4502-pixel)\n• Register Number(s):       [Your Register Number(s)]\n• Faculty / Supervisor:      [Faculty Name]"
     p4.font.size = Pt(13)
     p4.font.color.rgb = COLOR_TEXT_DARK
     p4.space_before = Pt(4)
@@ -687,7 +687,7 @@ def create_deck():
         ("2. Apache Spark Reference: ", "Matei Zaharia et al. 'Apache Spark: A Unified Engine for Big Data Processing.' Communications of the ACM, 2016."),
         ("3. Hadoop Architecture: ", "Tom White. 'Hadoop: The Definitive Guide - Storage and Analysis at Internet Scale.' O'Reilly Media, 4th Edition."),
         ("4. Review Spam Literature: ", "Nitin Jindal and Bing Liu. 'Opinion Spam and Analysis.' Proceedings of the 2008 International Conference on Web Search and Data Mining (WSDM)."),
-        ("5. GitHub Repository Link: ", "https://github.com/[username]/ecommerce-review-spam-detection-bigdata (Upload repository for code, Scala scripts, and Docker configs)."),
+        ("5. GitHub Repository Link: ", "https://github.com/aavi4502-pixel/ecommerce-review-spam-detection-bigdata (Repository containing PPT, Report, Scala, MapReduce, and Spark pipelines)."),
         ("6. Submitted Report File: ", "F:\\hadoop-project\\Ecommerce_Review_Spam_Detection_Project_Report.docx (Complete 11-Chapter Project Documentation)."),
         ("7. Live Interactive Dashboard: ", "http://localhost:5000/index.html (Features real-time review spam inference and dynamic analytics charts).")
     ]
