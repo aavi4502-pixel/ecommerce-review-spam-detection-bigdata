@@ -1,0 +1,18 @@
+# Big Data Datasets (Stored in HDFS, too large for GitHub)
+data/
+*.gz
+*.parquet
+*.json
+*.csv
+!dashboard/*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary & Log files
+*.log
+*.tmp
+bd pdf/
